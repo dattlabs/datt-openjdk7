@@ -1,4 +1,4 @@
-FROM datt/datt--base
+FROM datt/datt-base
 MAINTAINER John Albietz "inthecloud247@gmail.com"
 
 # openjdk7

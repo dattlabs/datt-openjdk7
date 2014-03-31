@@ -1,5 +1,5 @@
 FROM datt/datt-base
-MAINTAINER John Albietz "inthecloud247@gmail.com"
+MAINTAINER John Albietz <inthecloud247@gmail.com>
 
 # openjdk7
 RUN apt-get -y install --no-install-recommends openjdk-7-jdk
